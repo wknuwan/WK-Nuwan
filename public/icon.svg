@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="128" fill="#123c32"/>
+  <circle cx="256" cy="256" r="210" fill="none" stroke="#d7a94b" stroke-width="16"/>
+  <circle cx="256" cy="256" r="185" fill="#0d2e26"/>
+  <!-- Stylized K in Gold -->
+  <path d="M190 140 H235 V372 H190 Z" fill="#d7a94b"/>
+  <path d="M225 270 L305 150 H360 L265 290 Z" fill="#d7a94b"/>
+  <path d="M245 255 L365 372 H310 L215 280 Z" fill="#d7a94b"/>
+  <!-- Kuwait / Refinery subtle emblem stars -->
+  <circle cx="256" cy="100" r="10" fill="#d7a94b"/>
+  <circle cx="256" cy="412" r="10" fill="#d7a94b"/>
+</svg>
